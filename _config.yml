@@ -1,3 +1,4 @@
+name: iChaban
 title: iChaban
 plugins:
   - jekyll-relative-links
