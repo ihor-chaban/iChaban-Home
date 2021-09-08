@@ -1,9 +1,7 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-seo-tags
 relative_links:
   enabled: true
   collections: true
-theme: jekyll-theme-cayman
 include:
   - index.md
