@@ -1,5 +1,7 @@
+title: iChaban
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
