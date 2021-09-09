@@ -1,4 +1,5 @@
 title: iChaban Home
+description: ''
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
