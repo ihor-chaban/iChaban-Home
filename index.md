@@ -1,5 +1,5 @@
 ---
-title: iChaban Home
+title: ''
 ---
 ## Welcome to GitHub Pages
 
