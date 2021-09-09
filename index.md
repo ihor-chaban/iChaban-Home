@@ -1,5 +1,5 @@
 ---
-title: My custom title
+title: Home
 ---
 ## Welcome to GitHub Pages
 
