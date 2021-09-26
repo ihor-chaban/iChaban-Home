@@ -19,9 +19,9 @@ The project is being developed and improved all the time, so to be continued!
 \
 ![Shinobi](image/shinobi.png) **Shinobi** - video surveillance\
 \
-![Mail](image/mail.png) **Mail** - full-featured e-mail server\
+![Mail](image/mail.png) **Mail** - full-featured e-mail server
 
-Monitoring:
+#### Monitoring:
 ![Zabbix](image/zabbix.png) **Zabbix** - main monitoring system\
 \
 ![StatusCake](image/statuscake.png) **StatusCake** - public status page\
