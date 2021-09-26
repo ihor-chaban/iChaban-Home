@@ -7,11 +7,11 @@ This is a bare-metal home-hosted implementation of my vision of a perfect smart 
 #### Services
 ![BitWarden](image/bitwarden.png) **BitWarden** - password manager\
 ![Home Assistant](image/home-assistant.png) **Home Assistant** - smart home automation\
-![Plex](image/plex.svg | width=32) **Plex** - streaming media service\
+![Plex](image/plex.png) **Plex** - streaming media service\
+![qBittorrent](image/plex.png) **qBittorrent** - torrent client with WebGUI\
 
 #### Disclaimer
 Please be nice when visiting someone's home 🙂\
 Otherwise, you'll be banned for all the despicable tricks.
-
 
 #### Contacts
