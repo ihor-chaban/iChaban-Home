@@ -7,7 +7,7 @@ This is a bare-metal home-hosted implementation of my vision of a perfect smart 
 #### Services
 ![BitWarden](image/bitwarden.png) **BitWarden** - password manager\
 ![Home Assistant](image/home-assistant.png) **Home Assistant** - smart home automation\
-![Plex](plex.svg | width=32) **Plex** - streaming media service\
+![Plex](image/plex.svg | width=32) **Plex** - streaming media service\
 
 #### Disclaimer
 Please be nice when visiting someone's home 🙂\
