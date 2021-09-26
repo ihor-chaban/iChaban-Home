@@ -1,40 +1,12 @@
----
-title: ''
----
-## Welcome to GitHub Pages
+### Welcome Home
+This is a bare-metal home-hosted implementation of my vision of a perfect smart home. It includes handy all-in-one device management, cloud storage, media server, video surveillance, and many other services. Everything is dockerized and being updated regularly. Comprehensive monitoring is included. The project is being developed and improved all the time, so to be continued!
 
-You can use the [editor on GitHub](https://github.com/ihor-chaban/website-from-markdown/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Services
+- ![BitWarden](image/bitwarden.png "BitWarden")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Disclaimer
+Please be nice when visiting someone's home 🙂
+Otherwise, you'll be banned for all the despicable tricks.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ihor-chaban/website-from-markdown/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Contacts
