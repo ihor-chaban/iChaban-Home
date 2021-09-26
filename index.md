@@ -3,7 +3,7 @@ title: ''
 ---
 ### Welcome Home... Smart Home!
 This is a bare-metal home-hosted implementation of my vision of a perfect smart home. It includes handy all-in-one device management, cloud storage, media server, video surveillance, and many other services. Each service has a convenient mobile app. Everything is dockerized and being updated regularly. Comprehensive monitoring is included.
-Best practices are widely used to ensure maximum availability, which can be checked on monitoring status pages.
+Best practices are widely used to ensure maximum uptime, which can be checked on monitoring status pages.
 The project is being developed and improved all the time, so to be continued!
 
 ---
