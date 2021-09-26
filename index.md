@@ -17,7 +17,16 @@ The project is being developed and improved all the time, so to be continued!
 \
 ![Seafile](image/seafile.png) **Seafile** - cloud storage\
 \
-![Shinobi](image/shinobi.png) **Shinobi** - video surveillance
+![Shinobi](image/shinobi.png) **Shinobi** - video surveillance\
+\
+![Mail](image/mail.png) **Mail** - full-featured e-mail server\
+
+Monitoring:
+![Zabbix](image/zabbix.png) **Zabbix** - main monitoring system\
+\
+![StatusCake](image/statuscake.png) **StatusCake** - public status page\
+\
+![UptimeRobot](image/uptimerobot.png) **UptimeRobot** - public status page
 
 #### Disclaimer
 Please be nice when visiting someone's home 🙂\
