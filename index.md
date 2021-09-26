@@ -5,9 +5,9 @@ title: ''
 This is a bare-metal home-hosted implementation of my vision of a perfect smart home. It includes handy all-in-one device management, cloud storage, media server, video surveillance, and many other services. Each service has a convenient mobile app. Everything is dockerized and being updated regularly. Comprehensive monitoring is included.
 Best practices are widely used to ensure maximum availability, which can be checked on monitoring status pages.
 The project is being developed and improved all the time, so to be continued!
-<br />
-<br />
-<br />
+
+---
+
 #### Services
 ![BitWarden](image/bitwarden.png) **BitWarden** - password manager\
 \
@@ -21,7 +21,7 @@ The project is being developed and improved all the time, so to be continued!
 \
 ![Shinobi](image/shinobi.png) **Shinobi** - video surveillance\
 \
-![Mail](image/mail.png) **Mail** - full-featured e-mail server\
+![Mail](image/mail.png) **Mail** - full-featured e-mail server
 \
 ![Router1](image/openwrt.png) **Router 1** - network hardware WebGUI *(protected)*\
 \
@@ -33,12 +33,13 @@ The project is being developed and improved all the time, so to be continued!
 ![StatusCake](image/statuscake.png) **StatusCake** - additional external monitoring with public status page\
 \
 ![UptimeRobot](image/uptimerobot.png) **UptimeRobot** - additional external monitoring with public status page
-<br />
-<br />
-<br />
+
+---
+
 #### Disclaimer
 Please be nice when visiting someone's home 🙂\
 Otherwise, you'll be banned for all the despicable tricks.
 
 #### Contacts
  - List item
+
