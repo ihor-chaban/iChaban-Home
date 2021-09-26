@@ -30,9 +30,9 @@ The project is being developed and improved all the time, so to be continued!
 #### Monitoring:
 ![Zabbix](image/zabbix.png) **Zabbix** - main monitoring system\
 \
-![StatusCake](image/statuscake.png) **StatusCake** - public status page\
+![StatusCake](image/statuscake.png) **StatusCake** - additional external monitoring with public status page\
 \
-![UptimeRobot](image/uptimerobot.png) **UptimeRobot** - public status page
+![UptimeRobot](image/uptimerobot.png) **UptimeRobot** - additional external monitoring with public status page
 <br />
 <br />
 <br />
@@ -41,3 +41,4 @@ Please be nice when visiting someone's home 🙂\
 Otherwise, you'll be banned for all the despicable tricks.
 
 #### Contacts
+ - List item
