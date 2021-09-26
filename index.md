@@ -21,7 +21,7 @@ The project is being developed and improved all the time, so to be continued!
 \
 ![Shinobi](image/shinobi.png) **Shinobi** - video surveillance\
 \
-![Mail](image/mail.png) **Mail** - full-featured e-mail server
+![Mail](image/mail.png) **Mail** - full-featured e-mail server\
 \
 ![Router1](image/openwrt.png) **Router 1** - network hardware WebGUI *(protected)*\
 \
