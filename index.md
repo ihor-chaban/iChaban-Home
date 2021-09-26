@@ -29,6 +29,10 @@ The project is being developed and improved all the time, so to be continued!
 ![StatusCake](image/statuscake.png) **StatusCake** - public status page\
 \
 ![UptimeRobot](image/uptimerobot.png) **UptimeRobot** - public status page
+\
+![Router1](image/openwrt.png) **Router 1** - network hardware WebGUI *(protected)*\
+\
+![Router2](image/openwrt.png) **Router 2** - network hardware WebGUI *(protected)*
 <br />
 <br />
 <br />
