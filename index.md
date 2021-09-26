@@ -41,4 +41,6 @@ Please be nice when visiting someone's home 🙂\
 Otherwise, you'll be banned for all the despicable tricks.
 
 #### Contacts
- - List item
+ - **GitHub:** [ihor-chaban](https://github.com/ihor-chaban)
+ - **LinkedIn:** [ihor-chaban](https://www.linkedin.com/in/ihor-chaban)
+ - **E-mail:** admin@ichaban.pp.ua
