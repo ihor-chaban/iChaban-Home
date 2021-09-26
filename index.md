@@ -6,7 +6,9 @@ This is a bare-metal home-hosted implementation of my vision of a perfect smart 
 
 #### Services
 ![BitWarden](image/bitwarden.png "BitWarden") **BitWarden** - password manager\
+\
 ![Home Assistant](image/home-assistant.png "Home Assistant") **Home Assistant** - smart home automation\
+\
 
 #### Disclaimer
 Please be nice when visiting someone's home 🙂\
