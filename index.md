@@ -15,7 +15,7 @@ The project is being developed and improved all the time, so to be continued!
 \
 [![Plex](image/plex.png) **Plex**](https://plex.ichaban.pp.ua) - streaming media service\
 \
-[![qBittorrent](image/qbittorrent.png) **qBittorrent**](https://qbittorrent.ichaban.pp.ua) - torrent client with WebGUI\
+[![qBittorrent](image/qbittorrent.png) **qBittorrent**](https://qbittorrent.ichaban.pp.ua) - torrent client\
 \
 [![Seafile](image/seafile.png) **Seafile**](https://seafile.ichaban.pp.ua) - cloud storage\
 \
