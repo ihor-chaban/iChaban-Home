@@ -23,7 +23,7 @@ The project is being developed and improved all the time, so to be continued!
 \
 [![Stadia](image/stadia.png)](https://stadia.google.com) [**Stadia**](https://stadia.google.com) - cloud gaming\
 \
-![Mail](image/mail.png) **Mail** - full-featured e-mail server\
+[![Mail](image/mail.png)](https://github.com/docker-mailserver/docker-mailserver) [**Mail**](https://github.com/docker-mailserver/docker-mailserver) - full-featured e-mail server\
 \
 [![Router1](image/openwrt.png)](https://router1.ichaban.pp.ua) [**Router 1**](https://router1.ichaban.pp.ua) - network hardware WebGUI *(protected)*\
 \
